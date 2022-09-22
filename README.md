@@ -1,11 +1,3 @@
-
-
-http
-
-
-
-
-
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=HeLLO%20EVERYONE!%20👋&fontAlign=50&fontSize=50&descAlign=60&descAlignY=50&theme=radical)
 
 ###Let's connect and have a chat on 
@@ -16,5 +8,6 @@ http
 <img height="50" src="https://user-images.githubusercontent.com/105394366/191777644-12ee88ba-cd31-4868-b096-b569a2bcb529.png"/><a/>
 <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+<img  src=""/>
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
