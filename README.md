@@ -6,3 +6,6 @@ Let's connect and have a chat on
 <img height="50" src="https://user-images.githubusercontent.com/105394366/191773376-2aec5c91-a845-4d22-b727-67c4c89fee2a.png"/></a><a href="https://www.linkedin.com/mwlite/in/peter-onyema-04a2a522b">
 <img height="50" src="https://user-images.githubusercontent.com/105394366/191774452-a84263f6-9783-4fc6-9fc4-a68faeefd7c4.png"/><a/>
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<a href="https://twitter.com/Rexonyema?t=4AUTmfR0TAPBFKo9GJqOmA&s=09">
+
+<img height="50" src="https://user-images.githubusercontent.com/105394366/191777644-12ee88ba-cd31-4868-b096-b569a2bcb529.png"/><a/>
