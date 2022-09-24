@@ -1,6 +1,68 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=HELLO%20EVERYONE!%20👋&fontAlign=50&fontSize=50&descAlign=60&descAlignY=50&theme=radical)
+<h3 align="left">A little Bit About Me And My intrsests</h>
+'''yaml
+*name: Piyush Malhotra
 
-<h3 align ="left">Let's connect and have a chat on!</h3>
+located_in: Montreal, Quebec
+
+current_job: Full Stack Developer
+
+education:
+
+  [
+
+    "Self-Taught Developer and Designer",
+
+    "Master's in Electrical and Computer Engineering",
+
+    "Bachelor's in Electronics and Communication",
+
+  ]
+
+company: Soulber
+
+fields_of_interests:
+
+  [
+
+    "Web Development",
+
+    "Data Science",
+
+    "Machine Learning",
+
+    "UI/UX",
+
+    "Game Development",
+
+    "DevOps",
+
+  ]
+
+technical_background:
+
+  [
+
+    "DevOps Solutions Architect",
+
+    "Intern - Data Science & Machine Learning in Python",
+
+    "Intern - Internet Of Things",
+
+    "Intern - VLSI and FPGA Implementation",
+
+  ]
+
+  
+
+currently_learning: ["Docker, Kubernetes and React Native"]
+
+2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]*
+'''
+
+<h3 align ="left">Let's Connect And Have A Chat On!</h3>
 
 <a href="https://www.facebook.com/onyema.rexxie">
 <img height="50" src="https://user-images.githubusercontent.com/105394366/191703030-93f17ddf-fa7c-419c-bbdf-03e930ec6665.png"/></a><a href="https://www.instagram.com/rex_onyema">
