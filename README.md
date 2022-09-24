@@ -7,13 +7,20 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=HELLO%20EVERYONE!%20👋&fontAlign=50&fontSize=50&descAlign=60&descAlignY=50&theme=radical)
 
 
-<h1 align ="left">Reach And Connect With Me On!🗨️</h1>
+<h1 align ="center">Reach And Connect With Me On!🗨️</h1>
 
-<a href="https://www.facebook.com/onyema.rexxie">
+
+<p align="center">
+  <a href="https://www.facebook.com/onyema.rexxie">
+
 <img height="50" src="https://user-images.githubusercontent.com/105394366/191703030-93f17ddf-fa7c-419c-bbdf-03e930ec6665.png"/></a><a href="https://www.instagram.com/rex_onyema">
+
 <img height="50" src="https://user-images.githubusercontent.com/105394366/191773376-2aec5c91-a845-4d22-b727-67c4c89fee2a.png"/></a><a href="https://www.linkedin.com/mwlite/in/peter-onyema-04a2a522b">
+
 <img height="50" src="https://user-images.githubusercontent.com/105394366/191774452-a84263f6-9783-4fc6-9fc4-a68faeefd7c4.png"/><a/><a href="https://twitter.com/Rexonyema?t=4AUTmfR0TAPBFKo9GJqOmA&s=09">
+
 <img height="50" src="https://user-images.githubusercontent.com/105394366/191777644-12ee88ba-cd31-4868-b096-b569a2bcb529.png"/><a/>
+  </p>
 
 <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
@@ -21,7 +28,7 @@
 
 ---
 
-<h1 align="left">👩‍💻A little Bit About Me And My Interests</h1>
+<h1 align="center">👩‍💻A little Bit About Me And My Interests</h1>
 
 ```yaml
 Name: 
