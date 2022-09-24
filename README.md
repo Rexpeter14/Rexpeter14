@@ -13,23 +13,31 @@
 
 ##
 Name: 
+  
   [
 
-    "Onyema Peter"
+  
+   "Onyema Peter."
+
 
   ]
+  
 located_in:
 
   [ 
-     "Lagos, Nigeria"
+  
+     "Lagos, Nigeria."
 
+  
   ]
 
 Current_job:
 
   [
-     "software engineer"
+  
+     "Software engineer,"
 
+  
   ]
 
 Education:
@@ -77,18 +85,20 @@ Technical_background:
 Currently_learning: 
 
   [
-    "R language"
+  
+    "R language,"
 
   ]
 
 
 hobbies: 
    [
+  
      "Gaming",
      "Football", 
      "Music", 
      "Art", 
-     "Comedy"
+     "Comedy,"
 
     ]
 ##
