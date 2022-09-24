@@ -101,7 +101,7 @@ hobbies:
     ]
 ```
 ---
-<h1 align="left">🚀Languages and Tools</h1> 
+<h1 align="center">🚀Languages and Tools</h1> 
   <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -117,7 +117,7 @@ hobbies:
 
 ----
 
-<h1 align="left">📊 My GitHub Starts!</h1>
+<h1 align="center">📊 My GitHub History!</h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rexpeter14&show_icons=true&theme=vue-dark&border_radius=4.7" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rexpeter14&theme=vue-dark&border_radius=4.7&date_format=%5BY%20%5DM%20j" width= "400">
