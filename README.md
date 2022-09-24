@@ -11,7 +11,7 @@
 
 <h1 align="left">👩‍💻A little Bit About Me And My Interests</h1>
 
-##
+```yaml
 Name: 
   
   [
@@ -101,7 +101,8 @@ hobbies:
      "Comedy,"
 
     ]
-##
+```
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rexpeter14&show_icons=true&theme=vue-dark&border_radius=4.7" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rexpeter14&theme=vue-dark&border_radius=4.7&date_format=%5BY%20%5DM%20j" width= "400">
