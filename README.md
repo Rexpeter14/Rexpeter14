@@ -1,3 +1,9 @@
+<div id="header" align="center">
+
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+
+</div>
+
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=HELLO%20EVERYONE!%20👋&fontAlign=50&fontSize=50&descAlign=60&descAlignY=50&theme=radical)
 
 
